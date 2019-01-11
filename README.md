@@ -2,9 +2,8 @@
 
 The `platform` repository contains the initial history of InfluxDB 2.0.
 
-Following [influxdb#10618](https://github.com/influxdata/influxdb/issues/10618),
-the master branch of the [influxdb project](https://github.com/influxdata/influxdb)
-will contain all of the 2.0 work and git history so far.
+The master branch of the [influxdb project](https://github.com/influxdata/influxdb)
+now contains all of the 2.0 work and git history so far.
 
 This repository will remain archived in its current state indefinitely,
 so that projects dependent on `platform` will continue to work.
